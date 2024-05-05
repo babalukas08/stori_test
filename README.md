@@ -18,7 +18,7 @@ Para ejecutar el proyecto, sigue estos pasos:
 2.- Instalar PostgreSQL: Si no tienes PostgreSQL instalado, descarga e instala la versión adecuada para tu sistema operativo desde postgresql.org. https://www.postgresql.org/download/
 3.- Clonar el repositorio: Clona este repositorio en tu máquina local.
 
-git clone https://github.com/tu_usuario/stori_test.git
+git clone https://github.com/babalukas08/stori_test
 
 4.- Instalar dependencias: Navega al directorio raíz del proyecto y ejecuta el script setup_project.sh para instalar las dependencias.
 
